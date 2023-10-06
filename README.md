@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **himu0501@gmail.com**
 
-- ⚡ Fun fact **I can write on you!**
+- ⚡ Fun fact **- I can write on you!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
