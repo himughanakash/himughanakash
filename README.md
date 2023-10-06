@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Himanshu Chaudhary</h1>
 <h3 align="center">A Software developer with writing skills.</h3>
-
-<img align="right" alt="coding" width= "400 src="![image](https://github.com/himughanakash/himughanakash/assets/78428938/956e226b-e7d4-4542-86b8-b4a36a94f49a)
-">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himughanakash" alt="himughanakash" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/himughanakash" target="blank"><img src="https://img.shields.io/twitter/follow/himughanakash?logo=twitter&style=for-the-badge" alt="himughanakash" /></a> </p>
